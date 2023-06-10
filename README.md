@@ -1,5 +1,6 @@
 # Módulo de Kernel
-https://github.com/jvfxavier03/kernelmodulo/tree/main/Print%20Voc%C3%AA%20Passou
+![Imagem grand finale](https://github.com/jvfxavier03/kernelmodulo/blob/main/Print%20Voc%C3%AA%20Passou/grand%20finale.png)
+
 
 ## Descrição
 
