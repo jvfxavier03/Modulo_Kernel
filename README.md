@@ -1,7 +1,6 @@
 # Módulo de Kernel
+https://github.com/jvfxavier03/kernelmodulo/tree/main/Print%20Voc%C3%AA%20Passou
 
-
-![download]https://github.com/jvfxavier03/kernelmodulo/blob/main/Print%20Voc%C3%AA%20Passou/grand%20finale.png
 ## Descrição
 
 Este repositório contém um exemplo de módulo de kernel para Linux. O módulo de kernel é um programa que pode ser inserido ou removido do núcleo do sistema operacional Linux em tempo de execução. Ele permite estender as funcionalidades do kernel ou adicionar suporte para dispositivos específicos.
